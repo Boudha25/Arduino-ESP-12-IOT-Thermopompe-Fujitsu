@@ -14,7 +14,7 @@ Ce projet permet de contrôler une thermopompe Fujitsu à l'aide d'une carte ESP
 - [Configuration](#configuration)
 - [Utilisation](#utilisation)
 - [Contributions](#contributions)
-- [Image du circuit](#Image du circuit)
+- [Image du circuit](#Image-du-circuit)
 
 ## Introduction
 Ce projet vise à fournir une solution open source pour le contrôle de thermopompes Fujitsu via une carte ESP8266 (ESP-12). Il utilise le code Arduino disponible dans ce dépôt pour permettre aux utilisateurs de gérer leur thermopompe à partir d'une interface IoT.
