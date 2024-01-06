@@ -41,3 +41,5 @@ Avant d'utiliser le projet, assurez-vous de configurer les paramètres nécessai
 
 ## Contributions
 Les contributions sont les bienvenues! Si vous souhaitez améliorer ce projet, n'hésitez pas à créer une issue ou une pull request.
+![image](https://github.com/Boudha25/Arduino-ESP-12-IOT-Thermopompe-Fujitsu/assets/143884421/943525f6-c784-4ca7-83cd-f5d65c920c20)
+
