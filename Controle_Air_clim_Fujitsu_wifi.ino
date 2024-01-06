@@ -57,8 +57,8 @@ HeatpumpIR *heatpumpIR[] = {new FujitsuHeatpumpIR(), NULL};
 
 // Remplacer par vos informations de réseau sans-fil.
 // Replace with your network credentials
-const char* ssid = "VIDEOTRON0055"; // wifi SSID
-const char* password = "Y7YPAWX7W3Y7T"; // wifi password
+const char* ssid = "XXXXXXXXXXXXX"; // wifi SSID
+const char* password = "XXXXXXXXXXXXX"; // wifi password
 
 // Port du serveur web 80.
 // Set web server port number to 80
